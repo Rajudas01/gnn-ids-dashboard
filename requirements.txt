@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+torch
+plotly
+torch-geometric
+streamlit-autorefresh
+openpyxl
+scikit-learn
+matplotlib
+networkx
+reportlab
+scapy
