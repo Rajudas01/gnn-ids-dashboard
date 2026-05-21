@@ -12,3 +12,4 @@ networkx
 reportlab
 scapy
 fpdf
+bcrypt
